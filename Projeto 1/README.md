@@ -86,4 +86,3 @@ A ordem de leitura de um território é sempre da esquerda para a direita, segui
 ---
 
 Autor: João Trigueiros Ferreira (`ist1110573`).
-Publicado como portefólio — se és estudante de FP, não submetas este código como teu.
